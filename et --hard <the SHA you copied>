@@ -1,0 +1,62 @@
+[33m5dc5f96[m Old code that is not working. [31m(Taylor Watson, 2 minutes ago)[m
+[33m28b746c[m Done. [31m(Taylor Watson, 6 hours ago)[m
+[33m5aeff33[m Merge pull request #35 from kwebster2/master [31m(Maxwell Benton, 8 weeks ago)[m
+[33m4d5ef0d[m Updated mocha-jsdom versioning [31m(kwebster2, 4 months ago)[m
+[33m3e34943[m Merge pull request #28 from WolfHoward/WolfHoward1501447566 [31m(Jason Decker, 7 months ago)[m
+[33mbc26eaf[m clarify description about variable keys [31m(Dakota Lee Martinez, 7 months ago)[m
+[33m91bfc25[m Added clarification surrounding dot notation not accepting anything but strings. [31m(Wolf Howard, 1 year, 2 months ago)[m
+[33m4b37699[m Merge pull request #24 from omkeyu/omkeyu-1492521811 [31m(Jess Rudder, 1 year, 5 months ago)[m
+[33m568dde9[m Merge pull request #22 from itzsaga/itzsaga-1488255782 [31m(Jess Rudder, 1 year, 5 months ago)[m
+[33meb9c60b[m Merge pull request #19 from dalmaboros/dalmaboros-1483990741 [31m(Jess Rudder, 1 year, 5 months ago)[m
+[33m8a43d35[m Merge pull request #16 from DakotaLMartinez/patch-2 [31m(Jess Rudder, 1 year, 5 months ago)[m
+[33ma2c6cc9[m Merge pull request #15 from DakotaLMartinez/patch-1 [31m(Jess Rudder, 1 year, 5 months ago)[m
+[33m3181760[m Clarified the explanation for using Object.assign to better explain why we need to merge onto a new object [31m(omkeyu, 1 year, 6 months ago)[m
+[33m9c1c7cc[m missing apostrophe [31m(Seth, 1 year, 7 months ago)[m
+[33m62440d5[m Helps clarify that the object must not be empty in order for the test to pass. [31m(Dalma Boros, 1 year, 9 months ago)[m
+[33m5e839b5[m Adds Babel transpiling before running tests. [31m(Dakota Lee Martinez, 1 year, 10 months ago)[m
+[33ma99c01a[m Adds Babel to Package.json so ES6 syntax will work [31m(Dakota Lee Martinez, 1 year, 10 months ago)[m
+[33m0b1e462[m Merge pull request #13 from learn-co-curriculum/gj-master [31m(Avidor Turkewitz, 1 year, 10 months ago)[m
+[33m57edacf[m Remove extra link from readme [31m(Avidor Turkewitz, 1 year, 10 months ago)[m
+[33me6c19a6[m make sure removeFromPlaylist() actually removes artist-song pairs from the playlist [31m(gj, 1 year, 10 months ago)[m
+[33m969c114[m make sure updatePlaylist() actually updates the playlist [31m(gj, 1 year, 10 months ago)[m
+[33m70fc04b[m improve description to make clear that 'playlist' should not be an empty object [31m(gj, 1 year, 10 months ago)[m
+[33m6f61fec[m Merge pull request #10 from fiveinfinity/fiveinfinity-1475259124 [31m(Avidor Turkewitz, 1 year, 11 months ago)[m
+[33md9f8c87[m deleted unnecessary '/' [31m(Joe LaChance, 2 years ago)[m
+[33m4b33656[m formatting [31m(AnnJohn, 2 years ago)[m
+[33m9500ee8[m objectives [31m(AnnJohn, 2 years, 1 month ago)[m
+[33m794bfef[m typos [31m(AnnJohn, 2 years, 1 month ago)[m
+[33mfc2c4af[m formatting [31m(AnnJohn, 2 years, 1 month ago)[m
+[33md75a839[m Improve readability of first paragraph in intro [31m(thomastuts, 2 years, 2 months ago)[m
+[33mddb3a30[m Fix formatting [31m(thomastuts, 2 years, 2 months ago)[m
+[33m4224566[m Merge pull request #4 from abillig/abillig-1468989051 [31m(AnnJohn, 2 years, 2 months ago)[m
+[33mbd335a4[m Updated README.md [31m(abillig, 2 years, 2 months ago)[m
+[33m8d9d1dc[m Merge pull request #3 from learn-co-curriculum/fix-typos [31m(Avidor Turkewitz, 2 years, 3 months ago)[m
+[33m8214d29[m Move more returns after their calls [31m(Avidor Turkewitz, 2 years, 3 months ago)[m
+[33md1dbad5[m Fix typo and move return values after calls [31m(Avidor Turkewitz, 2 years, 3 months ago)[m
+[33m8fece61[m Merge pull request #1 from aturkewi/aturkewi-1468172298 [31m(Avidor Turkewitz, 2 years, 3 months ago)[m
+[33m00e1b67[m Fix typo [31m(Avidor Turkewitz, 2 years, 3 months ago)[m
+[33m0f82098[m Add another example [31m(Charles Pletcher, 2 years, 4 months ago)[m
+[33med7eae9[m Open with a metaphor [31m(Charles Pletcher, 2 years, 4 months ago)[m
+[33m8db6a85[m Update README to match tests [31m(Charles Pletcher, 2 years, 5 months ago)[m
+[33mafc30f7[m Demonstrate the use of Object.assign [31m(Charles Pletcher, 2 years, 5 months ago)[m
+[33mfe4d969[m Make sure students have defined some key-value pairs in playlist [31m(Charles Pletcher, 2 years, 5 months ago)[m
+[33mb39db09[m Initial commit with lab [31m(Charles Pletcher, 2 years, 5 months ago)[m
+[33m899dde1[m Merge pull request #6 from zachnewburgh/zachnewburgh-1459347977 [31m(AnnJohn, 2 years, 6 months ago)[m
+[33m1f76a5f[m TYPO: "it's" to "its" [31m(Zach Newburgh, 2 years, 6 months ago)[m
+[33m5378d11[m Merge pull request #5 from tuckerbohman5/tuckerbohman5-1458749004 [31m(AnnJohn, 2 years, 6 months ago)[m
+[33m29ae155[m Unline(should be unlike) Ruby, JavaScript does not have a handy .empty? convenience method. But, you can check to see if your object is empty by using Object.keys(yourObject) which returns an array of all the keys in your object. [31m(Tucker Bohman, 2 years, 6 months ago)[m
+[33m3ba8d75[m Merge pull request #3 from pajamaw/pajamaw-1458314263 [31m(AnnJohn, 2 years, 6 months ago)[m
+[33m218f6ca[m readme variable order now matches test [31m(PJ Wickwire, 2 years, 7 months ago)[m
+[33me8560cc[m merge [31m(vicfriedman, 2 years, 8 months ago)[m
+[33m5ecbab9[m optimize learn link [processing skip] [31m(Adam Jonas, 2 years, 8 months ago)[m
+[33mfa2aa1e[m updates [31m(vicfriedman, 2 years, 9 months ago)[m
+[33mf72353e[m updated test [31m(vicfriedman, 2 years, 9 months ago)[m
+[33m86e7874[m readme [31m(vicfriedman, 2 years, 9 months ago)[m
+[33m26339ca[m empty object [31m(vicfriedman, 2 years, 9 months ago)[m
+[33m6816aec[m iterate hash [31m(vicfriedman, 2 years, 9 months ago)[m
+[33m2e3cc22[m readme [31m(vicfriedman, 2 years, 9 months ago)[m
+[33m97cfb13[m update objectives [31m(vicfriedman, 2 years, 9 months ago)[m
+[33m8968ecb[m codealong [31m(vicfriedman, 2 years, 9 months ago)[m
+[33m9afcd61[m learn [31m(vicfriedman, 2 years, 9 months ago)[m
+[33meb01af7[m lesson [31m(vicfriedman, 2 years, 9 months ago)[m
+[33m9dc7217[m objectives [31m(vicfriedman, 2 years, 9 months ago)[m

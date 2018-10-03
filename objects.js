@@ -1,8 +1,8 @@
-var playlist = { mj: "thriller" , janet: "lonely" , beyonce: "blow"};
+var recipes = { mj: "thriller" , janet: "lonely" , beyonce: "blow"};
 
-function updatePlaylist(playlist, artist, song) {
-   playlist[artist] = song;
-  return playlist;
+function updateObjectWithKeyAndValue(object, key, value) {
+   recipes[key] = value;
+  return recipes;
 }
 function removeFromPlaylist(playlist, artist) {
   delete playlist[artist];
